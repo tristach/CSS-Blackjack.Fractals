@@ -3,9 +3,27 @@
  font-family: sans-serif;
  padding-top: 5px;
  padding-left: 5px;
+ padding-right: 500;
  }
 
- .pictures{margin: 10px; text-align: center;}
+
+/* .tradingplan {
+    width:700px;
+    position:relative;
+    left: 900px;
+    top: 200px;
+ }*/
+
+ .stockPic{
+    width: 700px;
+    position: relative;
+    top: 20px;
+    right: 65px;
+    margin: 5px;
+    
+ }
+ 
+ .pictures{margin: 10px; text-align: left;}
  .ol{color:rgb(34, 33, 33);
      padding-left: 5px;
      }
@@ -31,13 +49,7 @@
      z-index: 3;
 
  }
- .stockPic{
-    position: absolute;
-    top: 70px;
-    right: 25px;
-    margin: 5px;
-    
- }
+ 
  .class{overflow:auto;}
  #testButton{margin: 5px;}
  #testButton{border: 6px ridge ;}
@@ -52,7 +64,7 @@
      display: block;
      margin-left: auto;
      margin-right: auto;
-     width: 450px;
+     width: 600px;
      padding-top: 10px;
      padding-bottom: 10px;
  }
