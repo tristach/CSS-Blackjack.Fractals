@@ -3,16 +3,38 @@
  font-family: sans-serif;
  padding-top: 5px;
  padding-left: 5px;
- padding-right: 500;
+ }
+
+ .blackjack{
+    margin-bottom: 25px;
+    font-size: xxx-large;
+    padding: 25px;
+    padding-right: 300px;
+ }
+
+ .link1{
+    padding: 30px;
+    font-size: x-large;
+ }
+
+ .link2{
+    padding:30px;
+    font-size: x-large;
+ }
+
+ .link3{
+    padding:30px;
+    font-size: x-large;
+ }
+
+ .headerLinks{
+    padding-bottom: 300px;
+    margin-bottom: 100px;
+    border-bottom: 100px;
  }
 
 
-/* .tradingplan {
-    width:700px;
-    position:relative;
-    left: 900px;
-    top: 200px;
- }*/
+
 
  .stockPic{
     width: 700px;
@@ -29,26 +51,7 @@
      }
  p{font-size: 18px;}
 
- .link1{
-     position: absolute;
-     top: 20px;
-     left: 325px;
-     z-index: 1;
- }
- .link2{
-     position: absolute;
-     top: 20px;
-     left: 400px;
-     z-index: 2;
- }
  
- .link3{
-     position:absolute;
-     top: 20px;
-     left: 475px;
-     z-index: 3;
-
- }
  
  .class{overflow:auto;}
  #testButton{margin: 5px;}
