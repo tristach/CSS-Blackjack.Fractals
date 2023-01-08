@@ -7,24 +7,25 @@
 
  .blackjack{
     margin-bottom: 25px;
-    font-size: xxx-large;
+    font-size: 40px;
+    font-weight: bolder;
     padding: 25px;
-    padding-right: 300px;
+    padding-right: 200px;
  }
 
  .link1{
     padding: 30px;
-    font-size: x-large;
+    font-size: large;
  }
 
  .link2{
     padding:30px;
-    font-size: x-large;
+    font-size: large;
  }
 
  .link3{
     padding:30px;
-    font-size: x-large;
+    font-size: large;
  }
 
  .headerLinks{
