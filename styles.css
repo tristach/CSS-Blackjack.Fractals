@@ -37,15 +37,19 @@
 
 
 
- .stockPic{
+ /*.stockPic{
     width: 700px;
     position: relative;
     top: 20px;
     right: 65px;
     margin: 5px;
     
- }
+ }*/
  
+ .moneypic{
+   border-color: rgb(226, 211, 211);
+ }
+
  .pictures{margin: 10px; text-align: left;}
  .ol{color:rgb(34, 33, 33);
      padding-left: 5px;
